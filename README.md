@@ -25,19 +25,18 @@
 ## <p align="center">Skills</p>
 <div align="center">
 
-* **Programming languages**: <span style="color:                                                                       
-* **Data science**: <span style="color: #4CAF50">Machine learning</span>, <span style="color: #8e44ad">Data visualization</span>
-* **Web development**: <span style="color:                                                                                                              
-* **Machine learning**: <span style="color: #4CAF50">Model development</span>, <span style="color: #8e44ad">Prediction</span>, <span style="color: #2ecc71">Analysis</span>
-* **Natural Language Processing (NLP)**: <span style="color:                                                                                      
-* **Chatbot development**: <span style="color: #2980b9">Conversational AI</span>, <span style="color: #8e44ad">Chatbot design</span>
-* **Language translation**: <span style="color:                                                                                             
+* **Programming languages**: Python, JavaScript
+* **Data science**: Machine learning, Data visualization
+* **Web development**: HTML, CSS, JavaScript
+* **Machine learning**: Model development, Prediction, Analysis
+* **Natural Language Processing (NLP)**: Text analysis, Sentiment analysis
+* **Chatbot development**: Conversational AI, Chatbot design
+* **Language translation**: Machine translation, Language processing
 
 </div>
 
-                                
+## <p align="center">Contact</p>
 <p align="center">Email: <a href="mailto:hayagreevar9018@gmail.com">hayagreevar9018@gmail.com</a></p>
-
 
 
 
