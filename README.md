@@ -4,60 +4,23 @@
 <p align="center">Hi, I'm Reaishma N, a passionate developer with a keen interest in building innovative projects.</p>
 
 ## <p align="center">Projects</p>
-### 1. IPL Dashboard
-* **Description**: A data visualization project showcasing IPL statistics and insights.
-* **Technologies used**: Python, Pandas, Matplotlib, Seaborn
-* **Features**: Visualizations of team performance, player statistics, and match outcomes.
+<div align="center">
 
-### 2. Tip Calculator Web Application
-* **Description**: A user-friendly web application for calculating tips.
-* **Technologies used**: HTML, CSS, JavaScript
-* **Features**: Calculates tip amounts based on bill total and tip percentage.
+| **Project** | **Description** | **Technologies Used** | **GitHub Link** |
+| --- | --- | --- | --- |
+| IPL Dashboard | A data visualization project showcasing IPL statistics and insights. | Python, Pandas, Matplotlib, Seaborn | [GitHub](https://github.com/Reaishma/IPL-Dashboard) |
+| Tip Calculator Web Application | A user-friendly web application for calculating tips. | HTML, CSS, JavaScript | [GitHub](https://github.com/Reaishma/Tip-calculator-) |
+| Eco-Friendly Website | A website promoting eco-friendly practices and sustainability. | HTML, CSS, JavaScript | [GitHub](https://github.com/Reaishma/Eco-friendly-website-) |
+| Mood Journal Mental Health Tracking Application | A mental health tracking application for monitoring moods and emotions. | Python, Django | [GitHub](https://github.com/Reaishma/Mood-journal-a-mental-health-tracking-application-) |
+| Image Gallery | A visually appealing image gallery showcasing various images. | HTML, CSS, JavaScript | [GitHub](https://github.com/Reaishma/Image-gallery-) |
+| Password Strength Checker | A tool for checking password strength and security. | Python | [GitHub](https://github.com/Reaishma/Password-strength-checker-) |
+| Chatbot Powerful | A conversational AI chatbot for engaging with users. | Python, NLP | [GitHub](https://github.com/Reaishma/Chatbot-powerful-) |
+| Diabetes ML | A machine learning project for predicting diabetes. | Python, Scikit-learn | [GitHub](https://github.com/Reaishma/DiabetesML-) |
+| Cricket Century Prediction | A predictive model for forecasting cricket centuries. | Python, Scikit-learn | [GitHub](https://github.com/Reaishma/Cricket-century-prediction-) |
+| Sentiment Analysis using NLP | A natural language processing project for analyzing sentiments. | Python, NLTK | [GitHub](https://github.com/Reaishma/Sentiment-analysis-using-NLP) |
+| Language Translator | A language translation tool for translating text. | Python, Google Translate API | [GitHub](https://github.com/Reaishma/Language-translator-) |
 
-### 3. Eco-Friendly Website
-* **Description**: A website promoting eco-friendly practices and sustainability.
-* **Technologies used**: HTML, CSS, JavaScript
-* **Features**: Information on eco-friendly practices, resources, and tips.
-
-### 4. Mood Journal Mental Health Tracking Application
-* **Description**: A mental health tracking application for monitoring moods and emotions.
-* **Technologies used**: Python, Django
-* **Features**: Mood tracking, emotional analysis, and personalized recommendations.
-
-### 5. Image Gallery
-* **Description**: A visually appealing image gallery showcasing various images.
-* **Technologies used**: HTML, CSS, JavaScript
-* **Features**: Image gallery with filtering and sorting capabilities.
-
-### 6. Password Strength Checker
-* **Description**: A tool for checking password strength and security.
-* **Technologies used**: Python
-* **Features**: Password strength analysis and recommendations for improvement.
-
-### 7. Chatbot Powerful
-* **Description**: A conversational AI chatbot for engaging with users.
-* **Technologies used**: Python, Natural Language Processing (NLP)
-* **Features**: Conversational interface, intent recognition, and response generation.
-
-### 8. Diabetes ML
-* **Description**: A machine learning project for predicting diabetes.
-* **Technologies used**: Python, Scikit-learn
-* **Features**: Predictive modeling, feature analysis, and performance evaluation.
-
-### 9. Cricket Century Prediction
-* **Description**: A predictive model for forecasting cricket centuries.
-* **Technologies used**: Python, Scikit-learn
-* **Features**: Predictive modeling, feature analysis, and performance evaluation.
-
-### 10. Sentiment Analysis using NLP
-* **Description**: A natural language processing project for analyzing sentiments.
-* **Technologies used**: Python, NLTK
-* **Features**: Sentiment analysis, text classification, and feature extraction.
-
-### 11. Language Translator
-* **Description**: A language translation tool for translating text.
-* **Technologies used**: Python, Google Translate API
-* **Features**: Language translation, text detection, and language identification.
+</div>
 
 ## <p align="center">Skills</p>
 * **Programming languages**: Python, JavaScript
