@@ -7,3 +7,20 @@ timezone: Asia/Calcutta
 markdown:
   engine: commonmark
   options: {}
+# _config.yml example
+title: Reaishma N's Portfolio
+email: hayagreevar9018@gmail.com
+description: "Hi, I'm Reaishma N, a passionate developer with a keen interest in building innovative projects."
+baseurl: "/my-portfolio" # The subpath of your site, e.g., /blog
+url: "https://yourusername.github.io" # The base hostname & protocol for your site
+
+# Theme-specific settings (these vary widely by theme)
+# For example, if you chose PortfolYOU:
+# theme: portfolYOU
+# author: Reaishma N
+# github_username: Reaishma
+# show_hero: true
+# hero_title: Reaishma N
+# hero_description: Passionate Developer
+# show_contact: true
+# contact_email: hayagreevar9018@gmail.com
