@@ -2,7 +2,7 @@ title: Reaishma N's Portfolio
 description: A passionate developer with a keen interest in building innovative projects
 url: https://reaishma.github.io
 baseurl: /Reaishma-N-portfolio-
-permalink: /:title/
+permalink:https://reaishma.github.io/Reaishma-N-portfolio-/title/
 
 markdown: kramdown
 highlighter: rouge
