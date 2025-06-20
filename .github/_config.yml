@@ -10,4 +10,4 @@ highlighter: rouge
 plugins:
   - jekyll-feed
 
-theme: minima
+theme: cayman
